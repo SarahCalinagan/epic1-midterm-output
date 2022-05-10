@@ -5,8 +5,6 @@ Making this mandala art was difficult to make when it is hard to create ideas. T
 Then the combination of the two forms a beautiful art that despite their differences, these two would have been powerful and can move as one when joined together. 
 
 # Source
-~1 https://pythonturtle.academy/colored-nested-circle-of-squares-with-python-and-turtle/
-
-~2 https://pythonturtle.academy/hexagon-spiral-with-python-and-turtle-source-code/
-
-~3 https://pythonturtle.academy/vertical-football-with-python-turtle/
+[1](https://pythonturtle.academy/colored-nested-circle-of-squares-with-python-and-turtle/)
+[2](https://pythonturtle.academy/hexagon-spiral-with-python-and-turtle-source-code/)
+[3](https://pythonturtle.academy/vertical-football-with-python-turtle/)
